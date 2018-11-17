@@ -358,6 +358,9 @@ a {
     align-items: stretch;
     margin: 0;
     flex-basis: calc(23% - 8px); }
+    .product-items .product-item .product-item__image {
+      -webkit-box-ordinal-group: 0;
+      order: -1; }
     .product-items .product-item .product-item__label {
       display: -webkit-box;
       display: flex;
