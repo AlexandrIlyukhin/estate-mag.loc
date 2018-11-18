@@ -359,6 +359,9 @@ a {
     margin: 0;
     flex-basis: calc(23% - 8px); }
     .product-items .product-item .product-item__image {
+      -webkit-box-ordinal-group: -1;
+      order: -2; }
+    .product-items .product-item .product-item__title {
       -webkit-box-ordinal-group: 0;
       order: -1; }
     .product-items .product-item .product-item__label {
