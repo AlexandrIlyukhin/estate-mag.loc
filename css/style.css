@@ -322,12 +322,12 @@ a {
     border: solid 1px #ccc;
     padding: 11px;
     flex-basis: calc(30% - 20px); }
-  .sale-block .sale-item__title:nth-child(1) {
+  .sale-block .sale-item:nth-child(1) {
     color: #37a49e; }
-  .sale-block .sale-item__title:nth-child(2) {
-    color: #37a49e; }
-  .sale-block .sale-item__title:nth-child(3) {
-    color: #37a49e; }
+  .sale-block .sale-item:nth-child(2) {
+    color: #ff824a; }
+  .sale-block .sale-item:nth-child(3) {
+    color: #a4379e; }
   .sale-block .icon {
     height: 30px;
     fill: #F3573B;
